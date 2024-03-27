@@ -1,31 +1,36 @@
 {
   "name": "calci-com",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple calculator package",
   "main": "index.js",
   "scripts": {
     "test": "test.js"
   },
-  "keywords": ["calculator",
-  "math",
-  "arithmetic",
-  "trigonometry",
-  "geometry",
-  "conversion",
-  "unit",
-  "date",
-  "time",
-  "functions",
-  "npm",
-  "package",
-  "library",
-  "utility",
-  "tool",
-  "javascript",
-  "node.js",
-  "scientific",
-  "calculation",
-  "numerical"],
+  "keywords": [
+    "calculator",
+    "math",
+    "arithmetic",
+    "trigonometry",
+    "geometry",
+    "conversion",
+    "unit",
+    "date",
+    "time",
+    "functions",
+    "npm",
+    "package",
+    "library",
+    "utility",
+    "tool",
+    "javascript",
+    "node.js",
+    "scientific",
+    "calculation",
+    "numerical"
+  ],
   "author": "Akshay Patel",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "plotly": "^1.0.6"
+  }
 }
